@@ -31,7 +31,7 @@ object ActorTest {
 
     for (i <- 1 to 10) {
       counter !? Inc(i) match {
-        case _ => println(s"response..")
+        case _ => println(s"response...")
       }
     }
     Thread.sleep(1)
