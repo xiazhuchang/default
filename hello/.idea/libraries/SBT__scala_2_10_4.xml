@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="SBT: scala:2.10.4">
+    <CLASSES>
+      <root url="jar://D:/SBT_old/.sbt/boot/scala-2.10.4/lib/scala-library.jar!/" />
+      <root url="jar://D:/SBT_old/.sbt/boot/scala-2.10.4/lib/scala-compiler.jar!/" />
+      <root url="jar://D:/SBT_old/.sbt/boot/scala-2.10.4/lib/scala-reflect.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
